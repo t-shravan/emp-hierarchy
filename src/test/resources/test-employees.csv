@@ -1,0 +1,5 @@
+Id,firstName,lastName,salary,managerId
+1,John,CEO,200000,
+2,Manager,One,100000,1
+this-is-not-a-number,Sub,Two,90000,2
+4,Manager,Two,150000,1
